@@ -1,2 +1,2 @@
-tdjsfsdfg jsdgfjhsgdfjhsdgf
-dfgdfg
+foreign key - is used in table creation structure
+join - whenever  we need to fetch data from multiple table at a same time
